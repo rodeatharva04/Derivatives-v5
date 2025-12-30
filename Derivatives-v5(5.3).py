@@ -1,7 +1,4 @@
 # resolve your query - rodeatharva2@gmail.com
-# version 5.3 (Final Comma-Parsing & Nested Power Fix - 12/2025)
-# small-fix - update for removing excessive use of brackets(included)
-
 
 ''' 
 RULEBOOK 
