@@ -6,6 +6,14 @@ RULEBOOK
 https://drive.google.com/file/d/1sJsNNP9ugzwchH4LtwWTS1JCxFtqlI2Q/view?usp=sharing
 
 '''
+
+''' 
+PREVIOUS VERSION
+
+https://github.com/rodeatharva04/First-Year-Codes/blob/main/AdvanceInDerivative%20v4/Derivative%20v4.py
+
+'''
+
 #for trig use
 trig_helper_dict = {
     "sin"   : "cos()", 
