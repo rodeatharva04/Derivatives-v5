@@ -96,7 +96,7 @@ def exprecdev(exprinp):
     #mul-fact
     elif exprinp[0].isdigit():
         ptr=0
-        while ptr < len(exprinp) and (exprinp[ptr].isdigit() or exprinp[ptr] == '.'): ptr+=1
+        while ptr < len(exprinp) and (exprinp[ptr].isdigit() or exprinp[ptr] in ('.', '/')): ptr+=1
         return f"(({exprinp[:ptr]})({exprecdev(exprinp[ptr:])}))"
     
     #min
